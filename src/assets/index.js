@@ -36,6 +36,8 @@ import mikecollection from "./mcollection.png";
 import josh from "./josh.jpg";
 import mimi from "./mimi.jpg";
 import avatar from "./avatar.jpg";
+import farmx from "./farmx.png";
+import big8 from "./big8.png";
 
 export {
   logo,
@@ -71,4 +73,6 @@ export {
   josh,
   olliepickett,
   avatar,
+  farmx,
+  big8,
 };

@@ -15,16 +15,12 @@ import {
   git,
   figma,
   docker,
-  olliepickett,
-  onet,
-  starlight,
   dateme,
   mikeshop,
-  mikecollection,
   threejs,
-  josh,
-  mimi,
   avatar,
+  farmx,
+  big8,
 } from "../assets";
 
 export const navLinks = [
@@ -209,6 +205,50 @@ const projects = [
     image: mikeshop,
     source_code_link: "",
     live_demo_link: "https://just-electronics.onrender.com/",
+  },
+  {
+    name: "FarmX",
+    description:
+      "FarmX is an application that connects farmers with buyers, providing a platform for farmers to showcase their products and buyers to easily find and purchase fresh produce directly from the source.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "typeScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: farmx,
+    source_code_link: "",
+    live_demo_link: "https://usefarmx.com/",
+  },
+  {
+    name: "Big8",
+    description:
+      "The Big 8 is a team of diverse technology specialists dedicated to helping businesses transform data into decisions. From custom software engineering to AI integration, we turn your operational challenges into opportunities for innovation and growth.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "typeScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: big8,
+    source_code_link: "",
+    live_demo_link: "https://thebig8.com/",
   },
 ];
 
