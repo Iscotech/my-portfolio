@@ -229,7 +229,7 @@ const projects = [
     live_demo_link: "https://usefarmx.com/",
   },
   {
-    name: "Big8",
+    name: "The Big8",
     description:
       "The Big 8 is a team of diverse technology specialists dedicated to helping businesses transform data into decisions. From custom software engineering to AI integration, we turn your operational challenges into opportunities for innovation and growth.",
     tags: [
@@ -248,7 +248,7 @@ const projects = [
     ],
     image: big8,
     source_code_link: "",
-    live_demo_link: "https://thebig8.com/",
+    live_demo_link: "https://thebig8.info",
   },
 ];
 
